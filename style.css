@@ -50,7 +50,7 @@ button{
 }
 
 #save-btn{
-    background-color: red;
+    background-color: blue;
     cursor: pointer;
     border: none;
 }
@@ -63,7 +63,7 @@ button:hover{
 }
 
 p{
-    color: blue;
+    color: brown;
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 30px;
@@ -72,7 +72,7 @@ p{
 }
 
 #reset-btn{
-    background-color: yellow;
+    background-color: red;
     cursor: pointer;
     border: none;
     
